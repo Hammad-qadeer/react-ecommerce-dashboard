@@ -41,7 +41,7 @@ password: admin123
 
 ## 🚀 Live Demo
 
-- **Frontend (Vercel)**: [https://vue-ecommerce-dashboard-one.vercel.app](https://react-ecommerce-dashboard-eight.vercel.app)
+- **Frontend (Vercel)**: [https://react-ecommerce-dashboard-eight.vercel.app](https://react-ecommerce-dashboard-eight.vercel.app)
 
 > ✅ Sample data is automatically initialized on backend start-up.
 
